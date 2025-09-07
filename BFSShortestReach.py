@@ -4,21 +4,21 @@ from collections import deque
 
 class Solution:
     def bfs(n, m, edges, s):
-        # Cria um dicionário para representar o grafo, onde cada nó tem uma lista de vizinhos
+        # Cria um dicionário para representar o grafo, onde cada nó tem uma lista de vizinhos.
         graph = {i: [] for i in range(1, n+1)}
-        # Adiciona as arestas ao grafo, não direcionado
+        # Adiciona as arestas ao grafo, não direcionado.
         for i in edges:
             u, v = i
             graph[u].append(v)
             graph[v].append(u)
         queue = deque()
-        # Vetor de distâncias, não visitado
+        # Vetor de distâncias, não visitado.
         distance = [-1] * (n+1)
         distance[s] = 0
-        # Coloca o nó inicial na fila
+        # Coloca o nó inicial na fila.
         queue.append(s)
         
-        # Enquanto houver elementos na fila
+        # Enquanto houver elementos na fila.
         while queue:
             node = queue.popleft()  # Remove o próximo nó da fila
             for neighbor in graph[node]:
