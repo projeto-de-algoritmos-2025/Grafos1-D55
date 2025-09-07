@@ -21,11 +21,17 @@ propostas pelo professor em sala de aula.
 |Exercício | Resolução | Dificuldade |
 | -- | -- | -- |
 | [BFSShortestReach](https://www.hackerrank.com/challenges/bfsshortreach/problem) | [BFSShortestReach.py](https://github.com/projeto-de-algoritmos-2025/Grafos1-D55/tree/main/BFSShortestReach.py) | Média |
+| [TollCostDigits](https://www.hackerrank.com/challenges/toll-cost-digits/problem) | [TollCostDigits.py](https://github.com/projeto-de-algoritmos-2025/Grafos1-D55/tree/main/TollCostDigits.py) | Difícil |
 
 ## Screenshots
 - *BFSShortestReach*
 <div align="center">
 	<img src="assets/BFSShortestReach1.png" alt="BFS Shortest Reach" width="400"/>
+</div>
+
+- *TollCostDigits*
+<div align="center">
+	<img src="assets/TollCostDigits.png" alt="Toll Cost Digits" width="400"/>
 </div>
 
 
