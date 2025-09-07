@@ -13,18 +13,35 @@ Temas:
 | 23/1037665 |  Daniel Rodrigues Nascimento |
 
 ## Sobre 
-Resolução de exercícios do CodeForces/LeetCode/AtCoder de acordo com as condições
+Resolução de exercícios do CodeForces/LeetCode/AtCoder/HackerRank de acordo com as condições
 propostas pelo professor em sala de aula.
 
+
+## Exercícios
+|Exercício | Resolução | Dificuldade |
+| -- | -- | -- |
+| [BFSShortestReach](https://www.hackerrank.com/challenges/bfsshortreach/problem) | [BFSShortestReach.py](https://github.com/projeto-de-algoritmos-2025/Grafos1-D55/tree/main/BFSShortestReach.py) | Média |
+
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+- *BFSShortestReach*
+<div align="center">
+	<img src="assets/BFSShortestReach1.png" alt="BFS Shortest Reach" width="400"/>
+</div>
+
+
+
 
 ## Instalação 
 **Linguagem**: <br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+- Python
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+- Ter o Python 3 instalado na máquina
+- Para rodar a resolução do exercício BFSShortestReach:
+
+```bash
+python nome_do_arquivo.py
+```
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
