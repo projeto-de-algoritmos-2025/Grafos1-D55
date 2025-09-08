@@ -22,6 +22,7 @@ propostas pelo professor em sala de aula.
 | -- | -- | -- |
 | [BFSShortestReach](https://www.hackerrank.com/challenges/bfsshortreach/problem) | [BFSShortestReach.py](https://github.com/projeto-de-algoritmos-2025/Grafos1-D55/tree/main/BFSShortestReach.py) | Média |
 | [TollCostDigits](https://www.hackerrank.com/challenges/toll-cost-digits/problem) | [TollCostDigits.py](https://github.com/projeto-de-algoritmos-2025/Grafos1-D55/tree/main/TollCostDigits.py) | Difícil |
+| [WordLadder](https://www.hackerrank.com/challenges/toll-cost-digits/problem) | [WordLadder.py](https://github.com/projeto-de-algoritmos-2025/Grafos1-D55/tree/main/WordLadder.py) | Difícil |
 
 ## Screenshots
 - *BFSShortestReach*
@@ -32,6 +33,11 @@ propostas pelo professor em sala de aula.
 - *TollCostDigits*
 <div align="center">
 	<img src="assets/TollCostDigits.png" alt="Toll Cost Digits" width="400"/>
+</div>
+
+- *WordLadder*
+<div align="center">
+	<img src="assets/WordLadder.png" alt="Word Ladder" width="400"/>
 </div>
 
 
