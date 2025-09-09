@@ -24,6 +24,12 @@ propostas pelo professor em sala de aula.
 | [TollCostDigits](https://www.hackerrank.com/challenges/toll-cost-digits/problem) | [TollCostDigits.py](https://github.com/projeto-de-algoritmos-2025/Grafos1-D55/tree/main/TollCostDigits.py) | Difícil |
 | [WordLadder](https://leetcode.com/problems/word-ladder/) | [WordLadder.py](https://github.com/projeto-de-algoritmos-2025/Grafos1-D55/tree/main/WordLadder.py) | Difícil |
 
+## Vídeo
+|Vídeo de explicação|
+|--|
+| [Clique aqui](https://www.youtube.com/watch?v=o9Oz8Eqt87Q&feature=youtu.be) |
+
+
 ## Screenshots
 - *BFSShortestReach*
 <div align="center">
